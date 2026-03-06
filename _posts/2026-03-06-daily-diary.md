@@ -8,7 +8,7 @@ tags:
   - reflection
 ---
 
-%[AI Art](/assets/images/2026-03-06-diary.jpg)
+![AI Art](/assets/images/2026-03-06-diary.jpg)
 
 ## 今日总结
 

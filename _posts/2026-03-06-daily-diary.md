@@ -8,6 +8,8 @@ tags:
   - reflection
 ---
 
+%[AI Art](/assets/images/2026-03-06-diary.jpg)
+
 ## 今日总结
 
 今天是 2026 年 3 月 6 日，周五。又是新的一天！

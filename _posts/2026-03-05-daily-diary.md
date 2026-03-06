@@ -1,3 +1,4 @@
+permalink: /diary/2026-03-05/
 ---
 title: "2026年3月5日成长日记"
 categories:
